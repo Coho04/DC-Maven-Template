@@ -1,9 +1,9 @@
 package de.goldendeveloper.discord.maven.template;
 
-import de.goldendeveloper.dcbcore.DCBot;
-import de.goldendeveloper.dcbcore.DCBotBuilder;
 import de.goldendeveloper.discord.maven.template.discord.DemoCommand;
 import de.goldendeveloper.discord.maven.template.discord.DemoEvent;
+import io.github.coho04.dcbcore.DCBot;
+import io.github.coho04.dcbcore.DCBotBuilder;
 
 public class Main {
 
