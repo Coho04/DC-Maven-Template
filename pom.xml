@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.golden-developer</groupId>
+    <groupId>io.github.coho04</groupId>
     <artifactId>DC-Maven-Template</artifactId>
     <version>1.0</version>
 
@@ -73,7 +73,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>de.goldendeveloper.discord.maven.template.Main</mainClass>
+                            <mainClass>io.github.coho04.discord.maven.template.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

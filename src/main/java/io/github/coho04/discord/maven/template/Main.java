@@ -1,7 +1,7 @@
-package de.goldendeveloper.discord.maven.template;
+package io.github.coho04.discord.maven.template;
 
-import de.goldendeveloper.discord.maven.template.discord.DemoCommand;
-import de.goldendeveloper.discord.maven.template.discord.DemoEvent;
+import io.github.coho04.discord.maven.template.discord.DemoCommand;
+import io.github.coho04.discord.maven.template.discord.DemoEvent;
 import io.github.coho04.dcbcore.DCBot;
 import io.github.coho04.dcbcore.DCBotBuilder;
 

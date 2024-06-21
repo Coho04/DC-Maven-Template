@@ -1,4 +1,4 @@
-package de.goldendeveloper.discord.maven.template.discord;
+package io.github.coho04.discord.maven.template.discord;
 
 import io.github.coho04.dcbcore.DCBot;
 import io.github.coho04.dcbcore.interfaces.CommandInterface;

@@ -1,4 +1,4 @@
-package de.goldendeveloper.discord.maven.template.discord;
+package io.github.coho04.discord.maven.template.discord;
 
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
